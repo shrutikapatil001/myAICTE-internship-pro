@@ -1,1 +1,1 @@
-# myAICTE-internship-pro
+Resume screening and ranking system
