@@ -1,4 +1,4 @@
-Resume Screening and Ranking System
+Resume Screening and Candidate Ranking System
 
 This project was developed as part of my online internship to streamline the hiring process using automation and intelligent ranking.
 
